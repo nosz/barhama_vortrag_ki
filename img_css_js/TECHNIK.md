@@ -1,6 +1,6 @@
 # Barhama – Homepage und Landingpage Vortragsabend
 
-**Version:** 1.0.15 (Stand 2026-10-30)
+**Version:** 1.0.17 (Stand 2026-10-30)
 
 ## Zweck
 Genau zwei Seiten für den externen Partner Barhama Späti (Uni-Café & Späti, Heilbronn): Homepage (Inhalte nur aus den beiden Flyern) und Landingpage für einen Vortragsabend. Kein interner Standard-Kopf (Kundenseite). Nichts veröffentlicht.
@@ -46,3 +46,5 @@ Quelle: zwei Fotos von Barhama-Flyern (`quellen_bilder/barhama_1.jpg`, `barhama_
 - 1.0.13 (2026-10-30): Button 'Barhama Home' oben links im Kopf beider Seiten (Ziel index.html)
 - 1.0.14 (2026-10-30): Speaker-Karten deutlicher: großer Name, Rollen-Badge, Mikrofon-Symbol, 'Vortrag 1/2' als eigene Zeile
 - 1.0.15 (2026-10-30): Basis-URL korrigiert auf https://nosz.github.io/barhama_vortrag_ki/ (vorher falscher Pfad /ki-software-hardware/, dadurch 404 beim Vorschaubild). Betrifft canonical, og:url, og:image, twitter:image, Teilen-Links, sitemap.xml, robots.txt
+- 1.0.16 (2026-10-30): Julian ist Organisator des Info-Abends (nicht mehr als Geschäftsführer genannt); Geschäftsführer Sascha Möhrer und Dominik Britsch auf Landingpage (Organisator-Band und -Abschnitt) und Homepage (Anfahrt & Kontakt); Julian im Teaser der Homepage
+- 1.0.17 (2026-10-30): Rollen korrigiert: Organisator des Abends Julian, Geschäftsführer Sascha Möhrer, Geschäftspartner Dominik Britsch; deutlich auf Landingpage (Band, Abschnitt, Fußzeile) und Homepage (Anfahrt & Kontakt, Teaser, Fußzeile)
