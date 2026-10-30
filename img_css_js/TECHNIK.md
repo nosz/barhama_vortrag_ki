@@ -1,6 +1,6 @@
 # Barhama – Homepage und Landingpage Vortragsabend
 
-**Version:** 1.0.14 (Stand 2026-10-30)
+**Version:** 1.0.15 (Stand 2026-10-30)
 
 ## Zweck
 Genau zwei Seiten für den externen Partner Barhama Späti (Uni-Café & Späti, Heilbronn): Homepage (Inhalte nur aus den beiden Flyern) und Landingpage für einen Vortragsabend. Kein interner Standard-Kopf (Kundenseite). Nichts veröffentlicht.
@@ -9,7 +9,7 @@ Genau zwei Seiten für den externen Partner Barhama Späti (Uni-Café & Späti, 
 - `index.html` Homepage, `ki_software_hardware_info.html` Landingpage (gegenseitig verlinkt). Impressum und Datenschutz sind Abschnitte (`#impressum`, `#datenschutz`) am Seitenende jeder Datei, Platzhalter "Text folgt vom Betreiber"
 - `img_css_js/` alle Abhängigkeiten: alle Dateien flach in diesem Ordner ohne Unterordner (`custom.css`, `form.js`, Bilder, `bootstrap.min.css`, `bootstrap-icons.min.css`, Icon-Schriften)
 - `sitemap.xml`, `robots.txt`, `.nojekyll`, `quellen_bilder/` (Originale, unverändert)
-- Alle Pfade relativ; absolute URLs nur in canonical, og:url, og:image, sitemap, robots. Basis: https://nosz.github.io/ki-software-hardware/ (GitHub-Pages-Unterpfad), Landingpage unter .../ki_software_hardware_info.html
+- Alle Pfade relativ; absolute URLs nur in canonical, og:url, og:image, sitemap, robots. Basis: https://nosz.github.io/barhama_vortrag_ki/ (GitHub-Pages-Unterpfad), Landingpage unter .../ki_software_hardware_info.html
 
 ## Technik
 - Bootstrap **5.3.3** (CSS, lokal, MIT), Bootstrap Icons **1.11.3** (lokal, MIT). Das JS-Bundle ist nicht enthalten und nicht nötig (kein Menü-Umbruch, keine Komponenten mit JS).
@@ -45,3 +45,4 @@ Quelle: zwei Fotos von Barhama-Flyern (`quellen_bilder/barhama_1.jpg`, `barhama_
 - 1.0.12 (2026-10-30): LinkedIn und X aus den Teilen-Buttons entfernt (bleiben: Geräte-Teilen, WhatsApp, Facebook, E-Mail, Link kopieren)
 - 1.0.13 (2026-10-30): Button 'Barhama Home' oben links im Kopf beider Seiten (Ziel index.html)
 - 1.0.14 (2026-10-30): Speaker-Karten deutlicher: großer Name, Rollen-Badge, Mikrofon-Symbol, 'Vortrag 1/2' als eigene Zeile
+- 1.0.15 (2026-10-30): Basis-URL korrigiert auf https://nosz.github.io/barhama_vortrag_ki/ (vorher falscher Pfad /ki-software-hardware/, dadurch 404 beim Vorschaubild). Betrifft canonical, og:url, og:image, twitter:image, Teilen-Links, sitemap.xml, robots.txt
