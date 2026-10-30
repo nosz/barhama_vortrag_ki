@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nosz.github.io/ki-software-hardware/sitemap.xml
+Sitemap: https://nosz.github.io/barhama_vortrag_ki/sitemap.xml
