@@ -19,7 +19,9 @@ Zwei Vorträge, ein Abend, kein Fachchinesisch:
 **Für wen?** Für Geschäftsführer, für alle, die KI spannend finden, und für alle, die neue Hardware anschaffen und KI optimal nutzen möchten.
 
 **Das Wichtigste auf einen Blick**
-- Organisator: Julian, Geschäftsführer Barhama Späti UNI-Café
+- Organisator des Abends: Julian
+- Geschäftsführer: Sascha Möhrer
+- Geschäftspartner: Dominik Britsch
 - Dauer: 1 Stunde
 - Beitrag: 10 € für Raummiete und Unterlagen
 - Jeder Teilnehmer bekommt Unterlagen
@@ -38,4 +40,4 @@ Zwei Vorträge, ein Abend, kein Fachchinesisch:
 
 Die technischen Details stehen in `img_css_js/TECHNIK.md`.
 
-*Version 1.0.7*
+*Version 1.0.17*
