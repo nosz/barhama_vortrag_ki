@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nosz.github.io/ki-software-hardware/sitemap.xml
