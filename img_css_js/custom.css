@@ -148,3 +148,8 @@ figcaption { color: var(--bh-muted); font-size: .9rem; margin-top: .5rem; }
 .nav-share { display: inline-flex; align-items: center; justify-content: center; min-width: 44px; min-height: 44px; }
 .nav-share i { font-size: 1.15rem; color: var(--bh-orange); }
 .nav-share:hover i, .nav-share:focus-visible i { color: #fff; }
+/* Barhama-Home-Button im Kopf */
+.btn-home { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; padding: .45rem 1rem; background: var(--bh-orange); color: #000; border: 2px solid var(--bh-orange); border-radius: .5rem; font-weight: 900; text-transform: uppercase; letter-spacing: .04em; font-size: .9rem; text-decoration: none; transition: background-color .15s ease, color .15s ease; }
+.btn-home i { font-size: 1.1rem; }
+.btn-home:hover, .btn-home:focus-visible { background: #fff; border-color: #fff; color: #000; }
+.btn-home:focus-visible { outline: 3px solid var(--bh-gold); outline-offset: 2px; }
