@@ -1,6 +1,6 @@
 # Barhama – Homepage und Landingpage Vortragsabend
 
-**Version:** 1.0.8 (Stand 2026-10-30)
+**Version:** 1.0.12 (Stand 2026-10-30)
 
 ## Zweck
 Genau zwei Seiten für den externen Partner Barhama Späti (Uni-Café & Späti, Heilbronn): Homepage (Inhalte nur aus den beiden Flyern) und Landingpage für einen Vortragsabend. Kein interner Standard-Kopf (Kundenseite). Nichts veröffentlicht.
@@ -39,3 +39,7 @@ Quelle: zwei Fotos von Barhama-Flyern (`quellen_bilder/barhama_1.jpg`, `barhama_
 - 1.0.6 (2026-10-30): Formular fragt nur noch Name und E-Mail ab (plus Datenschutz-Checkbox); Felder Firma und Interesse entfernt
 - 1.0.7 (2026-10-30): README im Marketing-Stil neu geschrieben; diese technische Fassung liegt jetzt hier als TECHNIK.md
 - 1.0.8 (2026-10-30): img_css_js ohne Unterordner, alle Dateien flach; Pfade in HTML, custom.css und bootstrap-icons.min.css angepasst
+- 1.0.9 (2026-10-30): Teilen-Abschnitt (#teilen) auf beiden Seiten: Geräte-Teilen, WhatsApp, LinkedIn, Facebook, X, E-Mail, Link kopieren (share.js, reine Links, keine Fremdskripte, Klick öffnet erst den Dienst); og:image:type ergänzt; Event-Strukturdaten (JSON-LD) entfernt, solange kein Termin (startDate) feststeht, bis dahin wären sie ungültig
+- 1.0.10 (2026-10-30): Teilen-Symbol im Menü oben (beide Seiten), springt zu #teilen
+- 1.0.11 (2026-10-30): Teilen-Texte je Kanal ausformuliert (WhatsApp persönlich, E-Mail mit Betreff und Text, X/Teilen-Menü kurz)
+- 1.0.12 (2026-10-30): LinkedIn und X aus den Teilen-Buttons entfernt (bleiben: Geräte-Teilen, WhatsApp, Facebook, E-Mail, Link kopieren)
