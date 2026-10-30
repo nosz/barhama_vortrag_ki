@@ -1,6 +1,6 @@
 # Barhama – Homepage und Landingpage Vortragsabend
 
-**Version:** 1.0.13 (Stand 2026-10-30)
+**Version:** 1.0.14 (Stand 2026-10-30)
 
 ## Zweck
 Genau zwei Seiten für den externen Partner Barhama Späti (Uni-Café & Späti, Heilbronn): Homepage (Inhalte nur aus den beiden Flyern) und Landingpage für einen Vortragsabend. Kein interner Standard-Kopf (Kundenseite). Nichts veröffentlicht.
@@ -44,3 +44,4 @@ Quelle: zwei Fotos von Barhama-Flyern (`quellen_bilder/barhama_1.jpg`, `barhama_
 - 1.0.11 (2026-10-30): Teilen-Texte je Kanal ausformuliert (WhatsApp persönlich, E-Mail mit Betreff und Text, X/Teilen-Menü kurz)
 - 1.0.12 (2026-10-30): LinkedIn und X aus den Teilen-Buttons entfernt (bleiben: Geräte-Teilen, WhatsApp, Facebook, E-Mail, Link kopieren)
 - 1.0.13 (2026-10-30): Button 'Barhama Home' oben links im Kopf beider Seiten (Ziel index.html)
+- 1.0.14 (2026-10-30): Speaker-Karten deutlicher: großer Name, Rollen-Badge, Mikrofon-Symbol, 'Vortrag 1/2' als eigene Zeile
